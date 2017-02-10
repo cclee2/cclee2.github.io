@@ -2,7 +2,7 @@ body {
 	text-align: center;
 }
 #main {
-	width: 2000px;
+	width: 1000px;
 	height:3000px;
 	background: #D8E0EA;
 	margin:auto;
@@ -24,7 +24,7 @@ hr {
 	color: #DF0101;
 }
 #Port {
-	width: 2000px;
+	width: 1000px;
 	height: 3000px;
 	background: #D8E0EA;
 	margin:auto;
