@@ -1,13 +1,11 @@
 body {
-
 	text-align: center;
 }
 #main {
-	width: 1000px;
-	height: 2000px;
+	width: 2000px;
+	height:3000px;
 	background: #D8E0EA;
 	margin:auto;
-	border: solid 2px #000000;
 }
 h1 {
 	text-align: center;
@@ -23,14 +21,13 @@ p {
 }
 hr {
 	height: 2px;
-	color; ##DF0101;
+	color: #DF0101;
 }
 #Port {
-	width: 1000px;
-	height: 2000px;
+	width: 2000px;
+	height: 3000px;
 	background: #D8E0EA;
 	margin:auto;
-	border: solid 2px #000000;
 }
 h2 {
 	text-align: center;
